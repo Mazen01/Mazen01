@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mazen Alahmari</h1>
-<h3 align="center">Student at KFUPM</h3>
+<h3 align="center">Graduated From KFUPM</h3>
 
-- 🔭 I’m currently working on **Dilne**
+- 🔭 I’m currently working on **🤔🧐**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **👩🏻‍🚀**
 
 - 💬 Ask me about **Anything ☺️🚀**
 
-- 📫 How to reach me **the1whiteeye@gmail.com**
+- 📫 How to reach me **mazen1alahmari@gmail.com**
 
-- 📄 Know about my experiences [https://mazen-alahmari.okoul.com](https://mazen-alahmari.okoul.com)
+- 📄 Know about my experiences [https://mazen-alahmari.okoul.com](https://mazen-alahmari.okoul.com)[https://www.linkedin.com/in/mazen-alahmari/](https://www.linkedin.com/in/mazen-alahmari/)
 
 - ⚡ Fun fact **we do Gym 🪂**
 
